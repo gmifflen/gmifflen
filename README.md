@@ -6,9 +6,9 @@
   
   <!-- Learning and Contact Information -->
   <ul>
-    <li>🌱 I’m currently learning php, rust, and reverse engineering</li>
-    <li>📫 How to reach me gmifflen@gmail.com</li>
-    <li>⚡ Fun fact I use Gentoo</li>
+    <li>🌱 I’m currently learning <b>php, rust, and reverse engineering</b></li>
+    <li>📫 How to reach me <b>gmifflen@gmail.com</b></li>
+    <li>⚡ Fun fact <b>I use Gentoo</b></li>
   </ul>
   
   <!-- Languages and Tools -->
