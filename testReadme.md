@@ -1,35 +1,37 @@
-<div align="center">
+<div align="left">
   <!-- Introduction -->
   <h1 align="center">Hi, I'm Gabe</h1>
   <h3 align="center">A University student in Canada</h3>
   <br />
 
   <!-- Learning and Contact Information -->
-  <div align="center">  
-    <p>
+  <ul>
+    <li>
       🌱 I’m currently learning
       <b>php, rust, and reverse engineering</b>
-    </p>
-    <p>
+    </li>
+    <li>
       📫 How to reach me
       <b>gmifflen@gmail.com</b>
-    </p>
-    <p>
+    </li>
+    <li>
       ⚡ Fun fact
       <b>I daily drive Gentoo</b>
       <br />
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <sup>
         💼 Also experienced with RPM-based distributions like
         <b>Fedora and Rocky Linux</b>
       </sup>
-    </p>
-  </div>
+    </li>
+  </ul>
   
   <!-- Languages and Tools -->
-  <h3>Languages and Tools:</h3>
+  <h2 align="center">Languages and Tools:</h2>
+  
   <p>
     <!-- Compiled Languages -->
-    <sub>Compiled Languages</sub><br />
+    <sub><ins>Compiled Languages</sub><br /><br />
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
       <code><img
                src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg"
@@ -48,7 +50,7 @@
 
   <p>
     <!-- Scripting Languages -->
-    <sub>Scripting Languages</sub><br />
+    <sub><ins>Scripting Languages</sub><br /><br />
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <code><img 
               src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" 
@@ -88,7 +90,7 @@
 
   <p>
     <!-- Databases -->
-    <sub>Databases</sub><br />
+    <sub><ins>Databases</sub><br /><br />
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
       <code><img 
               src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mariadb/mariadb-original-wordmark.svg" 
@@ -107,7 +109,7 @@
 
   <p>
     <!-- Web Servers -->
-    <sub>Web Servers</sub><br />
+    <sub><ins>Web Servers</sub><br /><br />
     <a href="https://httpd.apache.org" target="_blank" rel="noreferrer">
       <code><img 
               src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apache/apache-original-wordmark.svg" 
@@ -119,7 +121,7 @@
 
   <p>
     <!-- Operating Systems -->
-    <sub>Operating Systems</sub><br />
+    <sub><ins>Operating Systems</ins></sub><br /><br />
     <a href="https://www.gentoo.org/" target="_blank" rel="noreferrer">
       <code><img 
               src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/gentoo/gentoo-original.svg" 
@@ -142,9 +144,10 @@
       /></code
     ></a>
   </p>
-
+  
   <!-- GitHub Stats -->
-  <div>
+  <h2 align="center">Fun Stats</h2>
+  <div align="left">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=gmifflen&show_icons=true&theme=solarized-light&locale=en&layout=compact"
       alt="gmifflen"
@@ -152,7 +155,7 @@
   </div>
 
   <!-- Profile Views -->
-  <div>
+  <div align="left">
     <img src="https://komarev.com/ghpvc/?username=gmifflen&label=Profile%20Views&color=0e75b6&style=flat" alt="gmifflen" />
   </div>
 </div>
