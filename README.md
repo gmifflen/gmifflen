@@ -1,30 +1,30 @@
-<div align="left">
+<div align="center">
   <!-- Introduction -->
   <h1 align="center">Hi, I'm Gabe</h1>
   <h3 align="center">A University student in Canada</h3>
   <br />
 
   <!-- Learning and Contact Information -->
-  <ul>
-    <li>
+  <div align="center">  
+    <p>
       🌱 I’m currently learning
       <b>php, rust, and reverse engineering</b>
-    </li>
-    <li>
+    </p>
+    <p>
       📫 How to reach me
       <b>gmifflen@gmail.com</b>
-    </li>
-    <li>
+    </p>
+    <p>
       ⚡ Fun fact
       <b>I daily drive Gentoo</b>
       <br />
-      &nbsp;&nbsp;&nbsp;&nbsp;
       <sup>
         💼 Also experienced with RPM-based distributions like
         <b>Fedora and Rocky Linux</b>
       </sup>
-    </li>
-  </ul>
+    </p>
+  </div>
+  
   <!-- Languages and Tools -->
   <h3>Languages and Tools:</h3>
   <p>
