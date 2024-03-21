@@ -12,7 +12,9 @@
     </li>
     <li>
       📫 How to reach me
-      <b>gmifflen@gmail.com</b>
+      <br />
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img alt="Discord" src="discord-wip-badge.svg" />
     </li>
     <li>
       ⚡ Fun fact
