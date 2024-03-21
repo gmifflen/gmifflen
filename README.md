@@ -18,7 +18,7 @@
                                                         rel="noreferrer"
                                                           ><img 
                                                             alt="Discord" 
-                                                            src="discord-wip-badge.svg" 
+                                                            src="discord-badge.svg" 
                                                        /></a> <!-- beatuiful ain't it? /s -->
     </li>
     <li>
