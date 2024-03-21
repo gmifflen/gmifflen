@@ -31,7 +31,7 @@
   
   <p>
     <!-- Compiled Languages -->
-    <sub>Compiled Languages</sub><br />
+    <sub><ins>Compiled Languages</sub><br /><br />
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
       <code><img
                src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg"
@@ -50,7 +50,7 @@
 
   <p>
     <!-- Scripting Languages -->
-    <sub>Scripting Languages</sub><br />
+    <sub><ins>Scripting Languages</sub><br /><br />
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <code><img 
               src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" 
@@ -90,7 +90,7 @@
 
   <p>
     <!-- Databases -->
-    <sub>Databases</sub><br />
+    <sub><ins>Databases</sub><br /><br />
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
       <code><img 
               src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mariadb/mariadb-original-wordmark.svg" 
@@ -109,7 +109,7 @@
 
   <p>
     <!-- Web Servers -->
-    <sub>Web Servers</sub><br />
+    <sub><ins>Web Servers</sub><br /><br />
     <a href="https://httpd.apache.org" target="_blank" rel="noreferrer">
       <code><img 
               src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apache/apache-original-wordmark.svg" 
@@ -121,7 +121,7 @@
 
   <p>
     <!-- Operating Systems -->
-    <sub>Operating Systems</sub><br />
+    <sub><ins>Operating Systems</ins></sub><br /><br />
     <a href="https://www.gentoo.org/" target="_blank" rel="noreferrer">
       <code><img 
               src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/gentoo/gentoo-original.svg" 
@@ -147,7 +147,7 @@
   
   <!-- GitHub Stats -->
   <h2 align="center">Fun Stats</h2>
-  <div align="center">
+  <div align="left">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=gmifflen&show_icons=true&theme=solarized-light&locale=en&layout=compact"
       alt="gmifflen"
@@ -155,7 +155,7 @@
   </div>
 
   <!-- Profile Views -->
-  <div align="center">
+  <div align="left">
     <img src="https://komarev.com/ghpvc/?username=gmifflen&label=Profile%20Views&color=0e75b6&style=flat" alt="gmifflen" />
   </div>
 </div>
