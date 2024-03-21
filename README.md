@@ -1,7 +1,7 @@
 <div align="left">
   <!-- Introduction -->
-  <h1 align="center">Hi, I'm Gabe</h1>
-  <h3 align="center">A University student in Canada</h3>
+  <h1 align="left">Hi, I'm Gabe</h1>
+  <h3 align="left">A University student in Canada</h3>
   <br />
 
   <!-- Learning and Contact Information -->
