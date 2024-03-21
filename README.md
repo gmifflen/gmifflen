@@ -1,7 +1,7 @@
 <div align="left">
   <!-- Introduction -->
-  <h1 align="left">Hi, I'm Gabe</h1>
-  <h3 align="left">A University student in Canada</h3>
+  <h1 align="center">Hi, I'm Gabe</h1>
+  <h3 align="center">A University student in Canada</h3>
   <br />
 
   <!-- Learning and Contact Information -->
@@ -27,7 +27,10 @@
   </ul>
   
   <!-- Languages and Tools -->
-  <h3>Languages and Tools:</h3>
+  <h3 align="center">Languages and Tools:</h3>
+  
+---
+  
   <p>
     <!-- Compiled Languages -->
     <sub>Compiled Languages</sub><br />
@@ -144,8 +147,10 @@
     ></a>
   </p>
 
+---
+
   <!-- GitHub Stats -->
-  <div>
+  <div align="center">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=gmifflen&show_icons=true&theme=solarized-light&locale=en&layout=compact"
       alt="gmifflen"
@@ -153,7 +158,7 @@
   </div>
 
   <!-- Profile Views -->
-  <div>
+  <div align="center">
     <img src="https://komarev.com/ghpvc/?username=gmifflen&label=Profile%20Views&color=0e75b6&style=flat" alt="gmifflen" />
   </div>
 </div>
