@@ -8,7 +8,10 @@
   <ul>
     <li>🌱 I’m currently learning <b>php, rust, and reverse engineering</b></li>
     <li>📫 How to reach me <b>gmifflen@gmail.com</b></li>
-    <li>⚡ Fun fact <b>I use Gentoo</b></li>
+    <li>⚡ Fun fact <b>I daily drive Gentoo</b>
+      <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<sup>💼 Also experienced with RPM-based distributions like <b>Fedora and Rocky Linux</b></sup></li>
+    </ul>
   </ul>
   
   <!-- Languages and Tools -->
@@ -18,14 +21,6 @@
       <img
         src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
         alt="bash"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg"
-        alt="haskell"
         width="40"
         height="40"
       />
@@ -85,6 +80,14 @@
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
         alt="python"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/r/r-original.svg"
+        alt="r"
         width="40"
         height="40"
       />
