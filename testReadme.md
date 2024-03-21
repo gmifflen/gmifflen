@@ -24,6 +24,7 @@
       </sup>
     </p>
   </div>
+  
   <!-- Languages and Tools -->
   <h3>Languages and Tools:</h3>
   <p>
