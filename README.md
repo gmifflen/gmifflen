@@ -27,9 +27,7 @@
   </ul>
   
   <!-- Languages and Tools -->
-  <h3 align="center">Languages and Tools:</h3>
-  
----
+  <h2 align="center">Languages and Tools:</h2>
   
   <p>
     <!-- Compiled Languages -->
@@ -146,10 +144,9 @@
       /></code
     ></a>
   </p>
-
----
-
+  
   <!-- GitHub Stats -->
+  <h2 align="center">Fun Stats</h2>
   <div align="center">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=gmifflen&show_icons=true&theme=solarized-light&locale=en&layout=compact"
