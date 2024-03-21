@@ -11,10 +11,15 @@
       <b>php, rust, and reverse engineering</b>
     </li>
     <li>
-      📫 How to reach me
-      <br />
-      &nbsp;&nbsp;&nbsp;&nbsp;
-      <img alt="Discord" src="discord-wip-badge.svg" />
+      📫 How to reach me ↓ <br />
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a 
+                                                        href="https://discord.com/users/326803660875235338"
+                                                        target="_blank"
+                                                        rel="noreferrer"
+                                                          ><img 
+                                                            alt="Discord" 
+                                                            src="discord-wip-badge.svg" 
+                                                       /></a> <!-- beatuiful ain't it? /s -->
     </li>
     <li>
       ⚡ Fun fact
