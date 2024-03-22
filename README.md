@@ -48,7 +48,7 @@
     ></a>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
       <code><img 
-              src="devicons-rust-original-filled.svg" 
+              src="rust-original-filled.svg" 
               alt="rust" 
               height="40vh" 
       /></code
