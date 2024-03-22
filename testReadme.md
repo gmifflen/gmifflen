@@ -1,7 +1,7 @@
 <div align="left">
   <!-- Introduction -->
   <h1 align="center">Hi, I'm Gabe</h1>
-  <h3 align="center">A University student in Canada</h3>
+  <h3 align="center">A Canadian University Student</h3>
   <br />
 
   <!-- Learning and Contact Information -->
@@ -11,12 +11,15 @@
       <b>php, rust, and reverse engineering</b>
     </li>
     <li>
-      📫 How to reach me: <br>
-      <table><tr width="20"><tr><td>
-        <a href="https://discord.com/users/326803660875235338" target="_blank" rel="noreferrer">
-          <img alt="Discord" src="discord-badge.svg"/>
-        </a>
-      </td></tr></table>
+      📫 How to reach me ↓ <br />
+      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a 
+                                                        href="https://discord.com/users/326803660875235338"
+                                                        target="_blank"
+                                                        rel="noreferrer"
+                                                          ><img 
+                                                            alt="Discord" 
+                                                            src="discord-badge.svg" 
+                                                       /></a> <!-- beatuiful ain't it? /s -->
     </li>
     <li>
       ⚡ Fun fact
