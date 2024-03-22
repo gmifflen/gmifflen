@@ -1,5 +1,4 @@
 [align="left"]
--- 
 == Hi, I'm Gabe
 
 [align="center"]
