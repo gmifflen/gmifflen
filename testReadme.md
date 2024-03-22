@@ -11,8 +11,12 @@
       <b>php, rust, and reverse engineering</b>
     </li>
     <li>
-      📫 How to reach me
-      <b>gmifflen@gmail.com</b>
+      📫 How to reach me: <br>
+      <table><tr width="20"><tr><td>
+        <a href="https://discord.com/users/326803660875235338" target="_blank" rel="noreferrer">
+          <img alt="Discord" src="discord-badge.svg"/>
+        </a>
+      </td></tr></table>
     </li>
     <li>
       ⚡ Fun fact
