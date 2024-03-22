@@ -1,10 +1,7 @@
-[align="left"]
 == Hi, I'm Gabe
 
-[align="center"]
 === A Canadian University Student
 
-[align="left"]
 * 🌱 I’m currently learning *php, rust, and reverse engineering*
 * 📫 How to reach me ↓ + 
 ++++
@@ -16,7 +13,6 @@
 * ⚡ Fun fact *I daily drive Gentoo* +
 [small]#💼 Also experienced with RPM-based distributions like *Fedora and Rocky Linux*#
 
-[align="center"]
 == Languages and Tools:
 
 [small]#Compiled Languages#
@@ -47,10 +43,8 @@ Gentoo:: image:https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd3
 Fedora:: image:https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/768px-Fedora_icon_%282021%29.svg.png[Fedora,40vh]
 Rocky Linux:: image:https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rockylinux/rockylinux-original.svg[Rocky Linux,40vh]
 
-[align="center"]
 == Fun Stats
 
-[align="left"]
 image:https://github-readme-stats.vercel.app/api/top-langs?username=gmifflen&show_icons=true&theme=solarized-light&locale=en&layout=compact[gmifflen]
 
 image:https://komarev.com/ghpvc/?username=gmifflen&label=Profile%20Views&color=0e75b6&style=flat[gmifflen]
