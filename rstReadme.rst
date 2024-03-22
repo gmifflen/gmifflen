@@ -1,0 +1,63 @@
+[align="left"]
+-- 
+== Hi, I'm Gabe
+
+[align="center"]
+=== A Canadian University Student
+
+[align="left"]
+* 🌱 I’m currently learning *php, rust, and reverse engineering*
+* 📫 How to reach me ↓ + 
+++++
+<a href="https://discord.com/users/326803660875235338" target="_blank" rel="noreferrer">
+<img alt="Discord" src="discord-badge.svg"/>
+</a> // beatuiful ain't it? /s
+++++
+* ⚡ Fun fact *I daily drive Gentoo* +
+[small]#💼 Also experienced with RPM-based distributions like *Fedora and Rocky Linux*#
+
+[align="center"]
+== Languages and Tools:
+
+-- Compiled Languages
+[small]#Compiled Languages#
+[horizontal]
+Java:: image:https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg[Java,40vh]
+Rust:: image:rust-original-filled.svg[Rust,40vh]
+
+-- Scripting Languages
+[small]#Scripting Languages#
+[horizontal]
+Bash:: image:https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg[Bash,40vh]
+JavaScript:: image:https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg[JavaScript,40vh]
+PHP:: image:https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg[PHP,40vh]
+Python:: image:https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg[Python,40vh]
+R:: image:https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/r/r-original.svg[R,40vh]
+
+-- Databases
+[small]#Databases#
+[horizontal]
+MariaDB:: image:https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mariadb/mariadb-original-wordmark.svg[MariaDB,40vh]
+MySQL:: image:https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg[MySQL,40vh]
+
+-- Web Servers
+[small]#Web Servers#
+[horizontal]
+Apache:: image:https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apache/apache-original-wordmark.svg[Apache HTTP Server,40vh]
+
+-- Operating Systems
+[small]#Operating Systems#
+[horizontal]
+Gentoo:: image:https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/gentoo/gentoo-original.svg[Gentoo,40vh]
+Fedora:: image:https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/768px-Fedora_icon_%282021%29.svg.png[Fedora,40vh]
+Rocky Linux:: image:https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rockylinux/rockylinux-original.svg[Rocky Linux,40vh]
+
+[align="center"]
+== Fun Stats
+
+[align="left"]
+image:https://github-readme-stats.vercel.app/api/top-langs?username=gmifflen&show_icons=true&theme=solarized-light&locale=en&layout=compact[gmifflen]
+
+image:https://komarev.com/ghpvc/?username=gmifflen&label=Profile%20Views&color=0e75b6&style=flat[gmifflen]
+--
+
