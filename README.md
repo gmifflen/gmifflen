@@ -25,7 +25,7 @@
       ⚡ Fun fact
       <b>I daily drive Gentoo</b>
       <br />
-      &nbsp;&nbsp;&nbsp;&nbsp;
+      &emsp;
       <sup>
         💼 Also experienced with RPM-based distributions like
         <b>Fedora and Rocky Linux</b>
