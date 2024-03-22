@@ -38,7 +38,7 @@
   
   <p>
     <!-- Compiled Languages -->
-    <sub><ins>Compiled Languages</sub><br /><br />
+    <sub><ins>Compiled Languages</ins></sub><br /><br />
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
       <code><img
                src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg"
@@ -57,7 +57,7 @@
 
   <p>
     <!-- Scripting Languages -->
-    <sub><ins>Scripting Languages</sub><br /><br />
+    <sub><ins>Scripting Languages</ins></sub><br /><br />
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <code><img 
               src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" 
@@ -97,7 +97,8 @@
 
   <p>
     <!-- Databases -->
-    <sub><ins>Databases</sub><br /><br />
+    <sub><ins>Databases</ins></sub><br /><br />
+    <sub><sub><ins>Relational</ins></sub></sub><br />
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
       <code><img 
               src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mariadb/mariadb-original-wordmark.svg" 
@@ -116,7 +117,7 @@
 
   <p>
     <!-- Web Servers -->
-    <sub><ins>Web Servers</sub><br /><br />
+    <sub><ins>Web Servers</ins></sub><br /><br />
     <a href="https://httpd.apache.org" target="_blank" rel="noreferrer">
       <code><img 
               src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apache/apache-original-wordmark.svg" 
