@@ -24,11 +24,11 @@
     <li>
       ⚡ Fun fact
       <b>I daily drive Gentoo</b>
-      <br />
-      &emsp;
+      <br />&emsp;
       <sup>
         💼 Also experienced with RPM-based distributions like
-        <b>Fedora and Rocky Linux</b>
+        <b>Fedora and Rocky Linux</b> for home-server use,<br />&emsp;&emsp;&emsp;
+        and <b>Windows</b> for University (curse you lockdown browser)
       </sup>
     </li>
   </ul>
