@@ -153,7 +153,7 @@
     ></a>
     <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
       <code><img 
-              src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows8/windows8-original.svg" 
+              src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg" 
               alt="Windows" 
               height="40vh" 
       /></code
