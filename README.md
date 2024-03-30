@@ -164,7 +164,7 @@
   <h2 align="center">Fun Stats</h2>
   <div align="left">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=gmifflen&show_icons=true&theme=solarized-light&locale=en&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=gmifflen&show_icons=true&theme=solarized-dark&locale=en&layout=compact"
       alt="gmifflen"
     />
   </div>
