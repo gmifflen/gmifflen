@@ -8,22 +8,11 @@
   <ul>
     <li>
       🌱 I’m currently learning
-      <b>php, rust, and reverse engineering</b>
-    </li>
-    <li>
-      📫 How to reach me ↓ <br />
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a 
-                                                        href="https://discord.com/users/326803660875235338"
-                                                        target="_blank"
-                                                        rel="noreferrer"
-                                                          ><img 
-                                                            alt="Discord" 
-                                                            src="discord-badge.svg" 
-                                                       /></a> <!-- beatuiful ain't it? /s -->
+      <b>PHP, Go, and reverse engineering</b>
     </li>
     <li>
       ⚡ Fun fact
-      <b>I daily drive Gentoo</b>
+      <b>I daily drive Bluefin</b>
       <br />&emsp;
       <sup>
         💼 Also experienced with RPM-based distributions like
