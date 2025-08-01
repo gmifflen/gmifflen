@@ -12,7 +12,7 @@
     </li>
     <li>
       ⚡ Fun fact
-      <b>I daily drive Bluefin</b>
+      <b>I daily drive <a href="https://projectbluefin.io/">Bluefin</a></b>
       <br />&emsp;
       <sup>
         💼 Also experienced with RPM-based distributions like
