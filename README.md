@@ -68,7 +68,7 @@
     <a href="https://projectbluefin.io/" target="_blank" rel="noreferrer">
       <code
         ><img
-          src="https://raw.githubusercontent.com/ublue-os/bluefin-docs/refs/heads/main/static/img/logo.png"
+          src="https://raw.githubusercontent.com/ublue-os/bluefin-docs/bd4934a2f86d0b29d7409ebe923309495f09ff2c/static/img/logo.svg"
           alt="project bluefin"
           height="40vh" /></code
     ></a>
