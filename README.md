@@ -1,8 +1,4 @@
 <div align="left">
-  <!-- Introduction -->
-  <h1>Hi, I'm Gabe</h1>
-  <br />
-
   <!-- Favourite Languages and Stuff -->
   <h2>My Favourite Languages and Stuff</h2>
 
