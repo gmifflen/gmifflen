@@ -69,7 +69,7 @@
   <h2>Fun Stats</h2>
   <div>
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=gmifflen&show_icons=true&theme=solarized-dark&locale=en&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=gmifflen&show_icons=true&theme=transparent&locale=en&layout=compact"
       alt="gmifflen"
     />
   </div>
