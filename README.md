@@ -4,7 +4,7 @@
   <br />
 
   <!-- Favourite Languages and Stuff -->
-  <h2>My Favourite Languages and Stuff:</h2>
+  <h2>My Favourite Languages and Stuff</h2>
 
   <p>
     <!-- Systems and Compiled Languages -->
