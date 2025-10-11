@@ -3,20 +3,8 @@
   <h1>Hi, I'm Gabe</h1>
   <br />
 
-  <!-- Learning and Fun Fact -->
-  <ul>
-    <li>
-      🌱 I’m currently learning
-      <b>PHP and Go</b>
-    </li>
-    <li>
-      ⚡ Fun fact
-      <b>I daily drive <a href="https://projectbluefin.io/">Bluefin</a></b>
-    </li>
-  </ul>
-
-  <!-- Favourite Languages and Tools -->
-  <h2>Favourite Languages and Tools:</h2>
+  <!-- Favourite Languages and Stuff -->
+  <h2>My Favourite Languages and Stuff:</h2>
 
   <p>
     <!-- Systems and Compiled Languages -->
@@ -52,13 +40,6 @@
           alt="php"
           height="40vh" /></code
     ></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <code
-        ><img
-          src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg"
-          alt="javascript"
-          height="40vh" /></code
-    ></a>
   </p>
 
   <p>
@@ -68,7 +49,7 @@
     <a href="https://projectbluefin.io/" target="_blank" rel="noreferrer">
       <code
         ><img
-          src="https://raw.githubusercontent.com/ublue-os/bluefin-docs/bd4934a2f86d0b29d7409ebe923309495f09ff2c/static/img/logo.svg"
+          src="https://raw.githubusercontent.com/ublue-os/bluefin-website/3bc7121406bfd337085444ec100da0aa8f35aa36/public/favicons/favicon.svg"
           alt="project bluefin"
           height="40vh" /></code
     ></a>
