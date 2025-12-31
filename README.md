@@ -37,16 +37,7 @@
           height="40vh" /></code
     ></a>
   </p>
-
-  <!-- GitHub Stats -->
-  <h2>Fun Stats</h2>
-  <div>
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=gmifflen&show_icons=true&theme=transparent&locale=en&layout=compact"
-      alt="gmifflen"
-    />
-  </div>
-
+  <br />
   <!-- Profile Views -->
   <div>
     <img src="https://komarev.com/ghpvc/?username=gmifflen&label=Profile%20Views&color=0e75b6&style=flat" alt="gmifflen" />
